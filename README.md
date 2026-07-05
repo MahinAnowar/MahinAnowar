@@ -1,19 +1,58 @@
 
-<div align="center">
-  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api/top-langs?username=MahinAnowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MahinAnowar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h3>🏆 Open Source Contributions</h3>
+      <table border="1">
+        <tr>
+          <th align="left">Repository</th>
+          <th align="left">Contributions</th>
+          <th align="left">Details</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
+          <td>2 Merged PRs</td>
+          <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/axios/axios"><strong>Axios</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/axios/axios/pull/11006">#11006</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/postcss/postcss/pull/2097">#2097</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/faker-js/faker/pull/3905">#3905</a></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="right">
+      <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" width="400" alt="stats graph"  />
+      <br />
+      <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api/top-langs?username=MahinAnowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" width="400" alt="languages graph"  />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=MahinAnowar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="400" alt="streak graph"  />
+    </td>
+  </tr>
+</table>
 
 ###
 
 <h2 align="center">👋 About Me</h2>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <p align="center">
   I am a <strong>Computer Science and Engineering (CSE)</strong> student in <strong>North South University</strong>.
