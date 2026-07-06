@@ -15,6 +15,11 @@
           <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
+          <td>2 Merged PRs</td>
+          <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/axios/axios"><strong>Axios</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/axios/axios/pull/11006">#11006</a></td>
@@ -28,11 +33,6 @@
           <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/postcss/postcss/pull/2097">#2097</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
-          <td>1 Merged PR</td>
-          <td><a href="https://github.com/faker-js/faker/pull/3905">#3905</a></td>
         </tr>
       </table>
     </td>
