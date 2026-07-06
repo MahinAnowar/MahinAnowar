@@ -173,15 +173,9 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahin-anowar" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" height="56" alt="LinkedIn" />
-  </a>
-  <img width="18" />
-  <a href="https://mahin-anowar.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" height="56" alt="Portfolio" />
-  </a>
-</div>
+- Email: [mahinanowar479@gmail.com](mailto:mahinanowar479@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/mahin-anowar](https://www.linkedin.com/in/mahin-anowar)
+- Portfolio: [https://mahin-anowar.vercel.app/](https://mahin-anowar.vercel.app/)
 
 ###
 
