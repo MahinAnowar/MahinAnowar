@@ -34,6 +34,11 @@
           <td>1 Merged PR</td>
           <td><a href="https://github.com/postcss/postcss/pull/2097">#2097</a></td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/eslint/eslint/pull/21062">#21062</a></td>
+        </tr>
       </table>
     </td>
     <td valign="top" align="right">
