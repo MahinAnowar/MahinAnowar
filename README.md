@@ -25,6 +25,11 @@
           <td><a href="https://github.com/axios/axios/pull/11006">#11006</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/remix-run/react-router"><strong>React Router</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/remix-run/react-router/pull/15286">#15286</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
