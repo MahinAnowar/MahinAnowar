@@ -80,99 +80,80 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <!--
-  Each category is a "label + badges" pair below.
-  To add a new one later (e.g. Mobile / Flutter), copy a pair —
+  Monochrome badge system: every badge uses the same dark background (1A1B27,
+  matching the tokyonight stats cards) and only the logo keeps its brand color.
+  To add a new group later (e.g. Mobile / Flutter), copy a "label + badges" pair —
   a ready-made Mobile block is at the bottom, just uncomment it.
 -->
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-1A1B27?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
 </p>
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1A1B27?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-1A1B27?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-1A1B27?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Radix_UI-1A1B27?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
   <br />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
+  <img src="https://img.shields.io/badge/Framer_Motion-1A1B27?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/TanStack_Query-1A1B27?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Zustand-1A1B27?style=for-the-badge&logo=package&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Zod-1A1B27?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod" />
+  <img src="https://img.shields.io/badge/D3.js-1A1B27?style=for-the-badge&logo=d3&logoColor=F9A03C" alt="D3.js" />
 </p>
 
-<p align="center"><strong>Backend</strong></p>
+<p align="center"><strong>Backend &amp; Data</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://custom-icon-badges.demolab.com/badge/REST_APIs-0096D6?style=for-the-badge&logo=globe&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy / SQLModel" />
-</p>
-
-<p align="center"><strong>Databases</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase / Firestore" />
-</p>
-
-<p align="center"><strong>DevOps &amp; Cloud</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions (CI/CD)" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
-  <img src="https://img.shields.io/badge/Bunny_CDN-FF8800?style=for-the-badge&logo=bunnydotnet&logoColor=white" alt="Bunny CDN" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p align="center"><strong>AI / ML</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini (GenAI)" />
-  <img src="https://custom-icon-badges.demolab.com/badge/LLM_Features-5A45FF?style=for-the-badge&logo=sparkle-fill&logoColor=white" alt="LLM-powered features" />
-</p>
-
-<p align="center"><strong>Auth &amp; Security</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Rate_Limiting-37474F?style=for-the-badge&logo=stopwatch&logoColor=white" alt="Rate Limiting" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Fingerprinting-455A64?style=for-the-badge&logo=shield-check&logoColor=white" alt="Device Fingerprinting" />
-</p>
-
-<p align="center"><strong>Other</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA / Service Workers" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Web_Push-CC2B5E?style=for-the-badge&logo=bell-fill&logoColor=white" alt="Web Push" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SSLCommerz-74B83E?style=for-the-badge&logo=credit-card&logoColor=white" alt="Payment Gateways (SSLCommerz)" />
-  <img src="https://img.shields.io/badge/Telegram%2FSMS-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram / SMS Integrations" />
+  <img src="https://img.shields.io/badge/FastAPI-1A1B27?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1A1B27?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/OpenAPI-1A1B27?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-1A1B27?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy / SQLModel" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Alembic-1A1B27?style=for-the-badge&logo=versions&logoColor=white" alt="Alembic Migrations" />
   <br />
-  <img src="https://custom-icon-badges.demolab.com/badge/Alembic-6D4C41?style=for-the-badge&logo=versions&logoColor=white" alt="Alembic Migrations" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Locust-2FB344?style=for-the-badge&logo=graph&logoColor=white" alt="Locust" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-1A1B27?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-1A1B27?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase / Firestore" />
+  <img src="https://img.shields.io/badge/JWT-1A1B27?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Google_OAuth-1A1B27?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google OAuth" />
+</p>
+
+<p align="center"><strong>DevOps, AI &amp; Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1A1B27?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions (CI/CD)" />
+  <img src="https://img.shields.io/badge/Vercel-1A1B27?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Coolify-1A1B27?style=for-the-badge&logo=coolify&logoColor=9D5CFF" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Bunny_CDN-1A1B27?style=for-the-badge&logo=bunnydotnet&logoColor=FF9E0F" alt="Bunny CDN" />
+  <img src="https://img.shields.io/badge/uv-1A1B27?style=for-the-badge&logo=uv&logoColor=DE5FE9" alt="uv" />
+  <img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <br />
+  <img src="https://img.shields.io/badge/Claude_Code-1A1B27?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Codex-1A1B27?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Google_Gemini-1A1B27?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini (GenAI)" />
+  <img src="https://img.shields.io/badge/PWA-1A1B27?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA / Service Workers" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SSLCommerz-1A1B27?style=for-the-badge&logo=credit-card&logoColor=74B83E" alt="Payment Gateways (SSLCommerz)" />
+  <br />
+  <img src="https://img.shields.io/badge/Telegram%2FSMS-1A1B27?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram / SMS Integrations" />
+  <img src="https://img.shields.io/badge/Vitest-1A1B27?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+  <img src="https://img.shields.io/badge/pytest-1A1B27?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="pytest" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Locust-1A1B27?style=for-the-badge&logo=graph&logoColor=2FB344" alt="Locust" />
 </p>
 
 <!-- 📱 Mobile — uncomment this block once you're ready to show Flutter:
 <p align="center"><strong>Mobile</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-1A1B27?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-1A1B27?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
 </p>
 -->
 
@@ -183,9 +164,13 @@
 
 ###
 
-- Email: [mahinanowar479@gmail.com](mailto:mahinanowar479@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/mahin-anowar](https://www.linkedin.com/in/mahin-anowar)
-- Portfolio: [https://mahin-anowar.vercel.app/](https://mahin-anowar.vercel.app/)
+<p align="center">
+  Email: <a href="mailto:mahinanowar479@gmail.com">mahinanowar479@gmail.com</a>
+  <br />
+  LinkedIn: <a href="https://www.linkedin.com/in/mahin-anowar">https://www.linkedin.com/in/mahin-anowar</a>
+  <br />
+  Portfolio: <a href="https://mahin-anowar.vercel.app/">https://mahin-anowar.vercel.app/</a>
+</p>
 
 ###
 
