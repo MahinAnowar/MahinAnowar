@@ -30,6 +30,11 @@
           <td><a href="https://github.com/remix-run/react-router/pull/15286">#15286</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/novuhq/novu"><strong>Novu</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/novuhq/novu/pull/11891">#11891</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
@@ -38,6 +43,11 @@
           <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/postcss/postcss/pull/2097">#2097</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/recharts/recharts/pull/7546">#7546</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
