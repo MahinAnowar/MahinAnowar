@@ -54,6 +54,11 @@
           <td>1 Merged PR</td>
           <td><a href="https://github.com/eslint/eslint/pull/21062">#21062</a></td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/sindresorhus/type-fest"><strong>type-fest</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/sindresorhus/type-fest/pull/1470">#1470</a></td>
+        </tr>
       </table>
     </td>
     <td valign="top" align="right">
