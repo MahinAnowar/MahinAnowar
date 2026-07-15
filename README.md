@@ -20,6 +20,11 @@
           <td><a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
+          <td>2 Merged PRs</td>
+          <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
           <td>2 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
@@ -43,11 +48,6 @@
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
-          <td>1 Merged PR</td>
-          <td><a href="https://github.com/recharts/recharts/pull/7546">#7546</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
