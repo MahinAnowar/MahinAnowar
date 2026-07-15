@@ -16,7 +16,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
-          <td>2 Merged PRs</td>
+          <td>3 Merged PRs</td>
           <td><a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
@@ -48,6 +48,11 @@
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/celery/celery/pull/10406">#10406</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
