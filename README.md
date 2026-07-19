@@ -21,13 +21,18 @@
         </tr>
         <tr>
           <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
-          <td>2 Merged PRs</td>
+          <td>3 Merged PRs</td>
           <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
           <td>2 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/nodejs/node"><strong>Node.js</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/nodejs/node/pull/64310">#64310</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/axios/axios"><strong>Axios</strong></a></td>
