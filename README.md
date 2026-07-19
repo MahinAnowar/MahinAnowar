@@ -10,62 +10,62 @@
           <th align="left">Details</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
+          <td>⭐ 29k&nbsp;│&nbsp;<a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
           <td>3 Merged PRs</td>
           <td><a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
+          <td>⭐ 27.4k&nbsp;│&nbsp;<a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
           <td>3 Merged PRs</td>
           <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
+          <td>⭐ 36.6k&nbsp;│&nbsp;<a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
           <td>2 Merged PRs</td>
           <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
+          <td>⭐ 15.4k&nbsp;│&nbsp;<a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
           <td>2 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/nodejs/node"><strong>Node.js</strong></a></td>
+          <td>⭐ 118k&nbsp;│&nbsp;<a href="https://github.com/nodejs/node"><strong>Node.js</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/nodejs/node/pull/64310">#64310</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/axios/axios"><strong>Axios</strong></a></td>
+          <td>⭐ 109k&nbsp;│&nbsp;<a href="https://github.com/axios/axios"><strong>Axios</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/axios/axios/pull/11006">#11006</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/remix-run/react-router"><strong>React Router</strong></a></td>
+          <td>⭐ 56.5k&nbsp;│&nbsp;<a href="https://github.com/remix-run/react-router"><strong>React Router</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/remix-run/react-router/pull/15286">#15286</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/novuhq/novu"><strong>Novu</strong></a></td>
+          <td>⭐ 39.3k&nbsp;│&nbsp;<a href="https://github.com/novuhq/novu"><strong>Novu</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/novuhq/novu/pull/11891">#11891</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
+          <td>⭐ 35.2k&nbsp;│&nbsp;<a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/medusajs/medusa/pull/15702">#15702</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
+          <td>⭐ 28.7k&nbsp;│&nbsp;<a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/celery/celery/pull/10406">#10406</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
+          <td>⭐ 27.4k&nbsp;│&nbsp;<a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/eslint/eslint/pull/21062">#21062</a></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/sindresorhus/type-fest"><strong>type-fest</strong></a></td>
+          <td>⭐ 17.3k&nbsp;│&nbsp;<a href="https://github.com/sindresorhus/type-fest"><strong>type-fest</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/sindresorhus/type-fest/pull/1470">#1470</a></td>
         </tr>
