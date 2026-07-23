@@ -11,7 +11,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
-          <td>3 Merged PRs</td>
+          <td>4 Merged PRs</td>
           <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
