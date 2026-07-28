@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
-          <td>2 Merged PRs</td>
+          <td>3 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
@@ -65,9 +65,19 @@
           <td><a href="https://github.com/eslint/eslint/pull/21062">#21062</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/rollup/rollup"><strong>Rollup</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/rollup/rollup/pull/6439">#6439</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/sindresorhus/type-fest"><strong>type-fest</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/sindresorhus/type-fest/pull/1470">#1470</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/reduxjs/redux-toolkit"><strong>Redux Toolkit</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/reduxjs/redux-toolkit/pull/5326">#5326</a></td>
         </tr>
       </table>
     </td>
