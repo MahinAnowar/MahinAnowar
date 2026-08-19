@@ -20,6 +20,11 @@
           <td><a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
+          <td>4 Merged PRs</td>
+          <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
           <td>4 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
@@ -33,11 +38,6 @@
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>3 Merged PRs</td>
           <td><a href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
-          <td>3 Merged PRs</td>
-          <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
@@ -88,6 +88,11 @@
           <td><a href="https://github.com/reduxjs/redux-toolkit"><strong>Redux Toolkit</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/reduxjs/redux-toolkit/pull/5326">#5326</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/recharts/recharts-integ"><strong>recharts-integ</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/recharts/recharts-integ/pull/100">#100</a></td>
         </tr>
       </table>
     </td>
