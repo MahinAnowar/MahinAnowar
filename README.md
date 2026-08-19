@@ -10,19 +10,19 @@
           <th align="left">Details</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
-          <td>4 Merged PRs</td>
-          <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
-        </tr>
-        <tr>
           <td><a href="https://github.com/postcss/postcss"><strong>PostCSS</strong></a></td>
-          <td>4 Merged PRs</td>
+          <td>5 Merged PRs</td>
           <td><a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
-          <td>4 Merged PRs</td>
+          <td>5 Merged PRs</td>
           <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
+          <td>4 Merged PRs</td>
+          <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
