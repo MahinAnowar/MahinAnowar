@@ -20,6 +20,11 @@
           <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/jestjs/jest"><strong>Jest</strong></a></td>
+          <td>4 Merged PRs</td>
+          <td><a href="https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/directus/directus"><strong>Directus</strong></a></td>
           <td>4 Merged PRs</td>
           <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
@@ -28,11 +33,6 @@
           <td><a href="https://github.com/faker-js/faker"><strong>Faker</strong></a></td>
           <td>4 Merged PRs</td>
           <td><a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/jestjs/jest"><strong>Jest</strong></a></td>
-          <td>3 Merged PRs</td>
-          <td><a href="https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
