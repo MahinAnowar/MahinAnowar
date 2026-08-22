@@ -115,14 +115,16 @@
 </div>
 
 <p align="center">
-  I am a <strong>Computer Science and Engineering (CSE)</strong> student in <strong>North South University</strong>.
-  My journey started with a curiosity for how things work, which quickly evolved into a passion for building them.
+  I'm a <strong>full-stack developer</strong> and <strong>Computer Science &amp; Engineering</strong> student at
+  <strong>North South University</strong>. My journey started with a curiosity for how things work, which quickly
+  evolved into a passion for building them.
 </p>
 
 <p align="center">
-  Specializing in the <strong>MERN Stack</strong>, I enjoy crafting front-end experiences that look great and back-end systems
-  that perform reliably. I'm constantly pushing my boundaries, currently diving deep into <strong>Machine Learning</strong>
-  to understand the next frontier of technology.
+  I build complete, production web apps end-to-end — <strong>React, Next.js &amp; TypeScript</strong> on the front,
+  <strong>Python/FastAPI &amp; Node</strong> on the back — including <strong>NSU Insights</strong>, my own AI-powered
+  platform used by <strong>1000+ students</strong>. Lately I'm focused on <strong>integrating AI (GPT, Gemini, Claude)
+  into real products</strong> and contributing to major open-source projects.
 </p>
 
 ###
@@ -210,6 +212,22 @@
 
 ###
 
+<h2 align="center">💼 Available for Freelance Work</h2>
+
+<p align="center">
+  I'm open to freelance projects — building web apps, integrating AI, and fixing tricky bugs.
+</p>
+
+<p align="center">
+  🐛 <a href="https://www.fiverr.com/s/1EA1Rak"><strong>Fix bugs</strong> in your React / Next.js / Node / Python app</a>
+  <br />
+  🤖 <a href="https://www.fiverr.com/s/3AGaYyL"><strong>Integrate AI</strong> / build an AI chatbot into your app</a>
+  <br />
+  ⚙️ <a href="https://www.fiverr.com/s/YLv0Pmp"><strong>Build custom features</strong> for your React / Next.js / FastAPI app</a>
+</p>
+
+###
+
 <h2 align="center">🌐 Connect with Me 🍬</h2>
 
 ###
@@ -218,6 +236,8 @@
   Email: <a href="mailto:mahinanowar479@gmail.com">mahinanowar479@gmail.com</a>
   <br />
   LinkedIn: <a href="https://www.linkedin.com/in/mahin-anowar">https://www.linkedin.com/in/mahin-anowar</a>
+  <br />
+  Fiverr: <a href="https://www.fiverr.com/mahin_anowar">https://www.fiverr.com/mahin_anowar</a>
   <br />
   Portfolio: <a href="https://mahin-anowar.vercel.app/">https://mahin-anowar.vercel.app/</a>
 </p>
