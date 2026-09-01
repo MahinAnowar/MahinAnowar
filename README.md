@@ -11,7 +11,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/recharts/recharts"><strong>Recharts</strong></a></td>
-          <td>6 Merged PRs</td>
+          <td>7 Merged PRs</td>
           <td><a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
