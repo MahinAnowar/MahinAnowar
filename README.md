@@ -45,6 +45,11 @@
           <td><a href="https://github.com/celery/celery/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/reduxjs/redux-toolkit"><strong>Redux Toolkit</strong></a></td>
+          <td>2 Merged PRs</td>
+          <td><a href="https://github.com/reduxjs/redux-toolkit/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/nodejs/node"><strong>Node.js</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/nodejs/node/pull/64310">#64310</a></td>
@@ -88,11 +93,6 @@
           <td><a href="https://github.com/sindresorhus/type-fest"><strong>type-fest</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/sindresorhus/type-fest/pull/1470">#1470</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/reduxjs/redux-toolkit"><strong>Redux Toolkit</strong></a></td>
-          <td>1 Merged PR</td>
-          <td><a href="https://github.com/reduxjs/redux-toolkit/pull/5326">#5326</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/recharts/recharts-integ"><strong>recharts-integ</strong></a></td>
