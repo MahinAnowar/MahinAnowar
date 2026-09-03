@@ -80,6 +80,11 @@
           <td><a href="https://github.com/typeorm/typeorm/pull/12566">#12566</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/sequelize/sequelize"><strong>Sequelize</strong></a></td>
+          <td>1 Merged PR</td>
+          <td><a href="https://github.com/sequelize/sequelize/pull/18236">#18236</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/eslint/eslint"><strong>ESLint</strong></a></td>
           <td>1 Merged PR</td>
           <td><a href="https://github.com/eslint/eslint/pull/21062">#21062</a></td>
