@@ -35,14 +35,14 @@
           <td><a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
+          <td>4 Merged PRs</td>
+          <td><a href="https://github.com/celery/celery/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/medusajs/medusa"><strong>Medusa</strong></a></td>
           <td>3 Merged PRs</td>
           <td><a href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/celery/celery"><strong>Celery</strong></a></td>
-          <td>3 Merged PRs</td>
-          <td><a href="https://github.com/celery/celery/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">View all merged PRs</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/reduxjs/redux-toolkit"><strong>Redux Toolkit</strong></a></td>
