@@ -263,9 +263,9 @@
     <td><a href="https://www.fiverr.com/s/3AGaYyL">View gig</a></td>
   </tr>
   <tr>
-    <td>⚙️ <strong>Custom features</strong></td>
-    <td>Ship new features end-to-end in your React / Next.js / FastAPI app</td>
-    <td><a href="https://www.fiverr.com/s/YLv0Pmp">View gig</a></td>
+    <td>🚀 <strong>Full-stack SaaS</strong></td>
+    <td>Build a complete SaaS platform end-to-end — auth, payments, dashboard, API</td>
+    <td><a href="https://www.fiverr.com/s/L3dyawQ">View gig</a></td>
   </tr>
 </table>
 
