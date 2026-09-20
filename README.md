@@ -227,18 +227,51 @@
 
 ###
 
-<h2 align="center">💼 Available for Freelance Work</h2>
+<h2 align="center">💼 Hire Me on Fiverr</h2>
 
 <p align="center">
-  I'm open to freelance projects — building web apps, integrating AI, and fixing tricky bugs.
+  <a href="https://www.fiverr.com/mahin_anowar">
+    <img src="https://img.shields.io/badge/Fiverr-Available%20for%20Work-1A1B27?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Available for work on Fiverr" />
+  </a>
 </p>
 
 <p align="center">
-  🐛 <a href="https://www.fiverr.com/s/1EA1Rak"><strong>Fix bugs</strong> in your React / Next.js / Node / Python app</a>
-  <br />
-  🤖 <a href="https://www.fiverr.com/s/3AGaYyL"><strong>Integrate AI</strong> / build an AI chatbot into your app</a>
-  <br />
-  ⚙️ <a href="https://www.fiverr.com/s/YLv0Pmp"><strong>Build custom features</strong> for your React / Next.js / FastAPI app</a>
+  I take on freelance work through <strong><a href="https://www.fiverr.com/mahin_anowar">Fiverr</a></strong> — the same debugging and
+  full-stack work you can see in my open-source PRs above, applied to your codebase. Every gig below is a live Fiverr order page,
+  so you can check my reviews, scope the job and order directly.
+</p>
+
+<table align="center">
+  <tr>
+    <th align="left">Gig</th>
+    <th align="left">What you get</th>
+    <th align="left">Order</th>
+  </tr>
+  <tr>
+    <td>🐛 <strong>Fix bugs</strong></td>
+    <td>Track down and fix bugs in your React / Next.js / Node / Python app</td>
+    <td><a href="https://www.fiverr.com/s/1EA1Rak">View gig</a></td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Figma → code</strong></td>
+    <td>Convert your Figma design into a pixel-accurate, responsive Next.js or React site</td>
+    <td><a href="https://www.fiverr.com/s/DmB9Ab7">View gig</a></td>
+  </tr>
+  <tr>
+    <td>🤖 <strong>Integrate AI</strong></td>
+    <td>Build an AI chatbot or wire an LLM into your existing product</td>
+    <td><a href="https://www.fiverr.com/s/3AGaYyL">View gig</a></td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>Custom features</strong></td>
+    <td>Ship new features end-to-end in your React / Next.js / FastAPI app</td>
+    <td><a href="https://www.fiverr.com/s/YLv0Pmp">View gig</a></td>
+  </tr>
+</table>
+
+<p align="center">
+  Something not on the list? <a href="https://www.fiverr.com/mahin_anowar">Message me on Fiverr</a> or
+  <a href="mailto:mahinanowar479@gmail.com">email me</a> and we'll scope a custom offer.
 </p>
 
 ###
