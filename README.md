@@ -18,9 +18,17 @@
     <td align="center"><h3>48</h3><sub>merged pull requests</sub></td>
     <td align="center"><h3>19</h3><sub>open-source projects</sub></td>
     <td align="center"><h3>789k</h3><sub>combined GitHub stars</sub></td>
-    <td align="center"><h3>4,283</h3><sub>students on NSU Insights</sub></td>
+    <td align="center"><h3><!-- nsu-users -->4,283<!-- /nsu-users --></h3><sub>students on NSU Insights</sub></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api/top-langs?username=MahinAnowar&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="165" alt="languages graph"  />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MahinAnowar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
+</p>
 
 ## Open source
 
@@ -110,7 +118,7 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 
 ## What I build
 
-**[NSU Insights](https://nsuinsights.com)**: an academic planning platform for North South University, used by 4,283 students who have written 3,615 teacher reviews. I planned, designed, built and run it alone: reviews, grade-distribution charts, a class-schedule planner with clash detection, and NSU Panda, a Gemini assistant with function calling and voice.<br />
+**[NSU Insights](https://nsuinsights.com)**: an academic planning platform for North South University, used by <!-- nsu-users -->4,283<!-- /nsu-users --> students who have written <!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews. I planned, designed, built and run it alone: reviews, grade-distribution charts, a class-schedule planner with clash detection, and NSU Panda, a Gemini assistant with function calling and voice.<br />
 <sub>React · TypeScript · Node.js · Express · MongoDB · Firebase Auth · Google Gemini · PWA</sub>
 
 **Automata One (Phoenix Education)**, junior full-stack developer, Jan – Aug 2026: built a promotional pricing system with FastAPI as the single price authority (Redis-cached, race-safe) across catalogue, cart and checkout; a notifications pipeline over Web Push and SSE; and was the top committer on the company website.<br />
@@ -152,16 +160,6 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
   <img src="https://img.shields.io/badge/GitHub_Actions-1A1B27?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-1A1B27?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Jest-1A1B27?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
-</p>
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api/top-langs?username=MahinAnowar&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="165" alt="languages graph"  />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MahinAnowar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
 </p>
 
 ## Work with me

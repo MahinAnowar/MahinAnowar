@@ -1,0 +1,47 @@
+name: Update NSU Insights numbers
+
+# Copies the NSU Insights user and review counts from the portfolio
+# (which refreshes them every night) into the README, between the
+# <!-- nsu-users --> and <!-- nsu-reviews --> markers.
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # 09:00 in Dhaka, after the portfolio's nightly sync
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write the latest numbers into the README
+        run: |
+          curl -fsSL https://mahin-anowar.vercel.app/stats.json -o stats.json
+          python3 - <<'PY'
+          import json, re
+          stats = json.load(open('stats.json'))['nsu']
+          readme = open('README.md').read()
+          for key, value in (('nsu-users', stats.get('users')), ('nsu-reviews', stats.get('reviews'))):
+              if not value:
+                  continue
+              readme = re.sub(
+                  rf'(<!-- {key} -->)[^<]*(<!-- /{key} -->)',
+                  lambda m: f'{m.group(1)}{value:,}{m.group(2)}',
+                  readme,
+              )
+          open('README.md', 'w').write(readme)
+          PY
+          rm stats.json
+
+      - name: Commit if the numbers changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am 'Update NSU Insights numbers'
+          git push
