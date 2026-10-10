@@ -114,6 +114,16 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
   <img src="https://img.shields.io/badge/Jest-1A1B27?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" width="400" alt="stats graph"  />
+  <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api/top-langs?username=MahinAnowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" width="400" alt="languages graph"  />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MahinAnowar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="400" alt="streak graph"  />
+</p>
+
 ## Work with me
 
 I take on freelance projects, as fixed-price packages on Fiverr or directly for larger work, and I'm open to remote part-time and contract roles.
@@ -126,3 +136,9 @@ I take on freelance projects, as fixed-price packages on Fiverr or directly for 
 | **Full-stack SaaS**: sign-in, payments, dashboard and API | $150 | [Fiverr](https://www.fiverr.com/s/L3dyawQ) |
 
 Something larger or ongoing? [Send a project brief](https://mahin-anowar.vercel.app/#contact) or [email me](mailto:mahinanowar479@gmail.com).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahinAnowar/MahinAnowar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahinAnowar/MahinAnowar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MahinAnowar/MahinAnowar/output/pacman-contribution-graph.svg">
+</picture>
