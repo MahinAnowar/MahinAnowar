@@ -142,3 +142,5 @@ Something larger or ongoing? [Send a project brief](https://mahin-anowar.vercel.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahinAnowar/MahinAnowar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MahinAnowar/MahinAnowar/output/pacman-contribution-graph.svg">
 </picture>
+
+![](https://komarev.com/ghpvc/?username=MahinAnowar)
