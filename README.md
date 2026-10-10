@@ -119,20 +119,20 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 ## What I build
 
 **[NSU Insights](https://nsuinsights.com)** · Founder and sole engineer · Dec 2025 – present<br />
-Academic planning platform used by <!-- nsu-users -->4,283<!-- /nsu-users --> students: <!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews, grade charts, a clash-aware schedule planner and a Gemini voice assistant with function calling.<br />
-*React · TypeScript · Node.js · MongoDB · Firebase · Gemini*
+The course-planning platform for North South University students, with <!-- nsu-users -->4,283<!-- /nsu-users --> users and <!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews. I designed, built and run it end to end, including an AI assistant students can talk to.<br />
+*React · TypeScript · Node.js · MongoDB · Gemini*
 
-**Automata One (Phoenix Education)** · Junior full-stack developer · Jan – Aug 2026<br />
-Built a FastAPI pricing engine (single price authority, Redis-cached, race-safe) and Web Push + SSE notifications for a live EdTech platform. Top committer on the company website.<br />
+**Automata One** · Junior full-stack developer · Jan – Aug 2026<br />
+Built the pricing and notification systems for Phoenix Education, a live learning platform: one source of truth for prices from catalogue to checkout, and real-time push notifications. Top contributor to the company website.<br />
 *Next.js · FastAPI · PostgreSQL · Redis*
 
 **Freelance** · Fiverr and direct clients · Sep 2026 – present<br />
-Bug fixes and AI features for startups abroad. A startup in Spain came back for three orders in a row, all rated 5 stars.<br />
-*React · Next.js · Node.js · Python · LLM APIs*
+Bug fixing and AI integration for startups abroad. My first client has hired me for every order since, each rated 5 stars.<br />
+*React · Next.js · Node.js · Python*
 
-**[This portfolio](https://mahin-anowar.vercel.app/)** · Personal site · 2026<br />
-Content run from a Google Sheet, a Gemini assistant with fallback across eight models, and nightly GitHub Actions that sync PRs and retake screenshots with Playwright.<br />
-*React 19 · Vite · Vercel Functions · GitHub Actions · Playwright*
+**[Portfolio](https://mahin-anowar.vercel.app/)** · Personal site · 2026<br />
+A site that maintains itself: content edited in Google Sheets, an AI assistant that answers from the site's own data, and nightly jobs that refresh live numbers and screenshots.<br />
+*React · Vite · Vercel · GitHub Actions · Playwright*
 
 ## Stack
 
