@@ -155,41 +155,63 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 
 ## Stack
 
-<p>
-  <b>Languages</b>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-1A1B27?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-1A1B27?style=flat-square&logo=database&logoColor=white" alt="SQL" />
-</p>
-<p>
-  <b>Frontend</b>&nbsp;
-  <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TanStack_Query-1A1B27?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
-</p>
-<p>
-  <b>Backend &amp; data</b>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-1A1B27?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-1A1B27?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
-</p>
-<p>
-  <b>AI</b>&nbsp;
-  <img src="https://img.shields.io/badge/Google_Gemini-1A1B27?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
-  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-1A1B27?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-1A1B27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
-</p>
-<p>
-  <b>Delivery</b>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-1A1B27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-1A1B27?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-1A1B27?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Jest-1A1B27?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-1A1B27?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://custom-icon-badges.demolab.com/badge/SQL-1A1B27?style=flat-square&logo=database&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/TanStack_Query-1A1B27?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+      <img src="https://img.shields.io/badge/Framer_Motion-1A1B27?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-1A1B27?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-1A1B27?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-1A1B27?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+      <img src="https://img.shields.io/badge/Supabase-1A1B27?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Firebase-1A1B27?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-1A1B27?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
+      <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-1A1B27?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Claude-1A1B27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Delivery &amp; testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-1A1B27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-1A1B27?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Vercel-1A1B27?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Jest-1A1B27?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+      <img src="https://img.shields.io/badge/Vitest-1A1B27?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+    </td>
+  </tr>
+</table>
 
 ## Work with me
 
