@@ -118,11 +118,61 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 
 ## What I build
 
-**[NSU Insights](https://nsuinsights.com)**: an academic planning platform for North South University, used by <!-- nsu-users -->4,283<!-- /nsu-users --> students who have written <!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews. I planned, designed, built and run it alone: reviews, grade-distribution charts, a class-schedule planner with clash detection, and NSU Panda, a Gemini assistant with function calling and voice.<br />
-<sub>React · TypeScript · Node.js · Express · MongoDB · Firebase Auth · Google Gemini · PWA</sub>
-
-**Automata One (Phoenix Education)**, junior full-stack developer, Jan – Aug 2026: built a promotional pricing system with FastAPI as the single price authority (Redis-cached, race-safe) across catalogue, cart and checkout; a notifications pipeline over Web Push and SSE; and was the top committer on the company website.<br />
-<sub>TypeScript · Next.js · FastAPI · PostgreSQL · Redis</sub>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>NSU Insights</b><br />
+      <sub>Founder and sole engineer · Dec 2025 – present</sub>
+      <h4>A live product used by <!-- nsu-users -->4,283<!-- /nsu-users --> students</h4>
+      <ul>
+        <li><!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews, grade-distribution charts and a class-schedule planner that flags clashes as you build</li>
+        <li>NSU Panda, a Gemini assistant with function calling and voice, for advising and schedule questions</li>
+        <li>MongoDB aggregation pipelines for rankings; sign-in limited to university email accounts</li>
+        <li>Planned, designed, built, launched and run alone</li>
+      </ul>
+      <sub>React · TypeScript · Node.js · Express · MongoDB · Firebase Auth · Gemini · PWA</sub><br /><br />
+      <a href="https://nsuinsights.com">nsuinsights.com →</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>Automata One (Phoenix Education)</b><br />
+      <sub>Junior full-stack developer · Jan – Aug 2026</sub>
+      <h4>Owned features end to end on a live EdTech platform</h4>
+      <ul>
+        <li>Promotional pricing system: FastAPI as the single price authority, Redis-cached and race-safe, so catalogue, cart and checkout always charge the same price</li>
+        <li>Notifications: Web Push (VAPID), live SSE and an in-app feed, with Redis fan-out and scheduled sends</li>
+        <li>Top committer on the company website; about 510 commits across the organisation's products</li>
+      </ul>
+      <sub>TypeScript · Next.js · React · FastAPI · PostgreSQL · Redis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Client work</b><br />
+      <sub>Freelance full-stack and AI engineer · Sep 2026 – present</sub>
+      <h4>Bug fixing and AI features for startups abroad</h4>
+      <ul>
+        <li>A startup in Spain came back for three orders in a row, all rated 5 stars</li>
+        <li>Root-cause fixes across React, Next.js and Node back ends, each with a written explanation</li>
+        <li>AI features added to existing products (GPT, Gemini, Claude), built into the client's own code</li>
+      </ul>
+      <sub>React · Next.js · Node.js · Python · LLM APIs</sub><br /><br />
+      <a href="https://www.fiverr.com/mahin_anowar">Fiverr profile →</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>This portfolio</b><br />
+      <sub>Personal site · 2026</sub>
+      <h4>A website that keeps itself up to date</h4>
+      <ul>
+        <li>Every word and price is edited in a Google Sheet; no code change needed</li>
+        <li>Gemini assistant behind a serverless function, answering only from generated facts, with fallback across eight models</li>
+        <li>Nightly GitHub Actions sync open-source PRs, retake product screenshots with Playwright and record live product numbers</li>
+        <li>Generates llms.txt, JSON-LD and a crawlable profile for search engines and AI tools</li>
+      </ul>
+      <sub>React 19 · Vite · Tailwind · Vercel Functions · GitHub Actions · Playwright</sub><br /><br />
+      <a href="https://mahin-anowar.vercel.app/">mahin-anowar.vercel.app →</a>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
