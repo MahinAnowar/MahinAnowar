@@ -2,7 +2,12 @@
 
 <p align="center">
   <b>Full-stack &amp; AI engineer</b> · Dhaka, Bangladesh (GMT+6)<br />
-  I build web apps and AI features end to end, and fix bugs at the root, including in Node.js, Jest and React Router.
+  I build web apps and AI features end to end, and fix hard bugs at the root.
+</p>
+
+<p align="center">
+  <b>48</b> open-source contributions accepted into <b>Node.js, Jest, React Router, Axios</b> and 15 more<br />
+  <a href="https://nsuinsights.com"><b>NSU Insights</b></a>, my own product, used by <b><!-- nsu-users -->4,283<!-- /nsu-users --></b> students
 </p>
 
 <p align="center">
@@ -13,14 +18,6 @@
   <a href="https://drive.google.com/file/d/1HgB9FaUGY8ew3eF3J5SSpZmbuqiwiY1e/"><img src="https://img.shields.io/badge/Resume-1A1B27?style=for-the-badge&logo=googledocs&logoColor=4285F4" alt="Resume" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><h3>48</h3><sub>merged pull requests</sub></td>
-    <td align="center"><h3>19</h3><sub>open-source projects</sub></td>
-    <td align="center"><h3>789k</h3><sub>combined GitHub stars</sub></td>
-    <td align="center"><h3><!-- nsu-users -->4,283<!-- /nsu-users --></h3><sub>students on NSU Insights</sub></td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-stats-seven-sandy-98.vercel.app//api?username=MahinAnowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
@@ -81,39 +78,39 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 
 
 <details>
-  <summary><b>All 48 merged pull requests, by project</b></summary>
+  <summary><b>All 48 accepted contributions, by project</b></summary>
   <br />
   <table align="center" width="100%">
     <tr>
-      <td align="center" width="20%"><a href="https://github.com/nodejs/node"><img src="https://avatars.githubusercontent.com/u/9950313?s=80&v=4" width="40" height="40" alt="" /><br /><b>Node.js</b></a><br /><sub>★&nbsp;122.3k · <a href="https://github.com/nodejs/node/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/axios/axios"><img src="https://avatars.githubusercontent.com/u/32372333?s=80&v=4" width="40" height="40" alt="" /><br /><b>Axios</b></a><br /><sub>★&nbsp;109.3k · <a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/remix-run/react-router"><img src="https://avatars.githubusercontent.com/u/64235328?s=80&v=4" width="40" height="40" alt="" /><br /><b>React Router</b></a><br /><sub>★&nbsp;56.6k · <a href="https://github.com/remix-run/react-router/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">2&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/jestjs/jest"><img src="https://avatars.githubusercontent.com/u/103283236?s=80&v=4" width="40" height="40" alt="" /><br /><b>Jest</b></a><br /><sub>★&nbsp;45.6k · <a href="https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">5&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/payloadcms/payload"><img src="https://avatars.githubusercontent.com/u/62968818?s=80&v=4" width="40" height="40" alt="" /><br /><b>Payload</b></a><br /><sub>★&nbsp;45.2k · <a href="https://github.com/payloadcms/payload/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/nodejs/node"><img src="https://avatars.githubusercontent.com/u/9950313?s=80&v=4" width="40" height="40" alt="" /><br /><b>Node.js</b></a><br /><sub>★&nbsp;122.3k · <a href="https://github.com/nodejs/node/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/axios/axios"><img src="https://avatars.githubusercontent.com/u/32372333?s=80&v=4" width="40" height="40" alt="" /><br /><b>Axios</b></a><br /><sub>★&nbsp;109.3k · <a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/remix-run/react-router"><img src="https://avatars.githubusercontent.com/u/64235328?s=80&v=4" width="40" height="40" alt="" /><br /><b>React Router</b></a><br /><sub>★&nbsp;56.6k · <a href="https://github.com/remix-run/react-router/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">2&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/jestjs/jest"><img src="https://avatars.githubusercontent.com/u/103283236?s=80&v=4" width="40" height="40" alt="" /><br /><b>Jest</b></a><br /><sub>★&nbsp;45.6k · <a href="https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">5&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/payloadcms/payload"><img src="https://avatars.githubusercontent.com/u/62968818?s=80&v=4" width="40" height="40" alt="" /><br /><b>Payload</b></a><br /><sub>★&nbsp;45.2k · <a href="https://github.com/payloadcms/payload/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><a href="https://github.com/colinhacks/zod"><img src="https://avatars.githubusercontent.com/u/3084745?s=80&v=4" width="40" height="40" alt="" /><br /><b>Zod</b></a><br /><sub>★&nbsp;44.1k · <a href="https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/novuhq/novu"><img src="https://avatars.githubusercontent.com/u/77433905?s=80&v=4" width="40" height="40" alt="" /><br /><b>Novu</b></a><br /><sub>★&nbsp;40.1k · <a href="https://github.com/novuhq/novu/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/directus/directus"><img src="https://avatars.githubusercontent.com/u/15967950?s=80&v=4" width="40" height="40" alt="" /><br /><b>Directus</b></a><br /><sub>★&nbsp;38.4k · <a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">4&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/typeorm/typeorm"><img src="https://avatars.githubusercontent.com/u/20165699?s=80&v=4" width="40" height="40" alt="" /><br /><b>TypeORM</b></a><br /><sub>★&nbsp;36.7k · <a href="https://github.com/typeorm/typeorm/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/medusajs/medusa"><img src="https://avatars.githubusercontent.com/u/62591822?s=80&v=4" width="40" height="40" alt="" /><br /><b>Medusa</b></a><br /><sub>★&nbsp;36.7k · <a href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">3&nbsp;merged</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/colinhacks/zod"><img src="https://avatars.githubusercontent.com/u/3084745?s=80&v=4" width="40" height="40" alt="" /><br /><b>Zod</b></a><br /><sub>★&nbsp;44.1k · <a href="https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/novuhq/novu"><img src="https://avatars.githubusercontent.com/u/77433905?s=80&v=4" width="40" height="40" alt="" /><br /><b>Novu</b></a><br /><sub>★&nbsp;40.1k · <a href="https://github.com/novuhq/novu/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/directus/directus"><img src="https://avatars.githubusercontent.com/u/15967950?s=80&v=4" width="40" height="40" alt="" /><br /><b>Directus</b></a><br /><sub>★&nbsp;38.4k · <a href="https://github.com/directus/directus/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">4&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/typeorm/typeorm"><img src="https://avatars.githubusercontent.com/u/20165699?s=80&v=4" width="40" height="40" alt="" /><br /><b>TypeORM</b></a><br /><sub>★&nbsp;36.7k · <a href="https://github.com/typeorm/typeorm/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/medusajs/medusa"><img src="https://avatars.githubusercontent.com/u/62591822?s=80&v=4" width="40" height="40" alt="" /><br /><b>Medusa</b></a><br /><sub>★&nbsp;36.7k · <a href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">3&nbsp;accepted</a></sub></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><a href="https://github.com/sequelize/sequelize"><img src="https://avatars.githubusercontent.com/u/3591786?s=80&v=4" width="40" height="40" alt="" /><br /><b>Sequelize</b></a><br /><sub>★&nbsp;30.3k · <a href="https://github.com/sequelize/sequelize/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/postcss/postcss"><img src="https://avatars.githubusercontent.com/u/8296347?s=80&v=4" width="40" height="40" alt="" /><br /><b>PostCSS</b></a><br /><sub>★&nbsp;29k · <a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">5&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/celery/celery"><img src="https://avatars.githubusercontent.com/u/319983?s=80&v=4" width="40" height="40" alt="" /><br /><b>Celery</b></a><br /><sub>★&nbsp;28.9k · <a href="https://github.com/celery/celery/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">4&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/recharts/recharts"><img src="https://avatars.githubusercontent.com/u/13690587?s=80&v=4" width="40" height="40" alt="" /><br /><b>Recharts</b></a><br /><sub>★&nbsp;27.6k · <a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">7&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/eslint/eslint"><img src="https://avatars.githubusercontent.com/u/6019716?s=80&v=4" width="40" height="40" alt="" /><br /><b>ESLint</b></a><br /><sub>★&nbsp;27.6k · <a href="https://github.com/eslint/eslint/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/sequelize/sequelize"><img src="https://avatars.githubusercontent.com/u/3591786?s=80&v=4" width="40" height="40" alt="" /><br /><b>Sequelize</b></a><br /><sub>★&nbsp;30.3k · <a href="https://github.com/sequelize/sequelize/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/postcss/postcss"><img src="https://avatars.githubusercontent.com/u/8296347?s=80&v=4" width="40" height="40" alt="" /><br /><b>PostCSS</b></a><br /><sub>★&nbsp;29k · <a href="https://github.com/postcss/postcss/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">5&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/celery/celery"><img src="https://avatars.githubusercontent.com/u/319983?s=80&v=4" width="40" height="40" alt="" /><br /><b>Celery</b></a><br /><sub>★&nbsp;28.9k · <a href="https://github.com/celery/celery/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">4&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/recharts/recharts"><img src="https://avatars.githubusercontent.com/u/13690587?s=80&v=4" width="40" height="40" alt="" /><br /><b>Recharts</b></a><br /><sub>★&nbsp;27.6k · <a href="https://github.com/recharts/recharts/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">7&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/eslint/eslint"><img src="https://avatars.githubusercontent.com/u/6019716?s=80&v=4" width="40" height="40" alt="" /><br /><b>ESLint</b></a><br /><sub>★&nbsp;27.6k · <a href="https://github.com/eslint/eslint/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><a href="https://github.com/rollup/rollup"><img src="https://avatars.githubusercontent.com/u/12554859?s=80&v=4" width="40" height="40" alt="" /><br /><b>Rollup</b></a><br /><sub>★&nbsp;26.3k · <a href="https://github.com/rollup/rollup/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/sindresorhus/type-fest"><img src="https://avatars.githubusercontent.com/u/170270?s=80&v=4" width="40" height="40" alt="" /><br /><b>type-fest</b></a><br /><sub>★&nbsp;17.4k · <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/faker-js/faker"><img src="https://avatars.githubusercontent.com/u/97165289?s=80&v=4" width="40" height="40" alt="" /><br /><b>Faker</b></a><br /><sub>★&nbsp;15.5k · <a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">6&nbsp;merged</a></sub></td>
-      <td align="center" width="20%"><a href="https://github.com/reduxjs/redux-toolkit"><img src="https://avatars.githubusercontent.com/u/13142323?s=80&v=4" width="40" height="40" alt="" /><br /><b>Redux Toolkit</b></a><br /><sub>★&nbsp;11.2k · <a href="https://github.com/reduxjs/redux-toolkit/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">2&nbsp;merged</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/rollup/rollup"><img src="https://avatars.githubusercontent.com/u/12554859?s=80&v=4" width="40" height="40" alt="" /><br /><b>Rollup</b></a><br /><sub>★&nbsp;26.3k · <a href="https://github.com/rollup/rollup/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/sindresorhus/type-fest"><img src="https://avatars.githubusercontent.com/u/170270?s=80&v=4" width="40" height="40" alt="" /><br /><b>type-fest</b></a><br /><sub>★&nbsp;17.4k · <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">1&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/faker-js/faker"><img src="https://avatars.githubusercontent.com/u/97165289?s=80&v=4" width="40" height="40" alt="" /><br /><b>Faker</b></a><br /><sub>★&nbsp;15.5k · <a href="https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">6&nbsp;accepted</a></sub></td>
+      <td align="center" width="20%"><a href="https://github.com/reduxjs/redux-toolkit"><img src="https://avatars.githubusercontent.com/u/13142323?s=80&v=4" width="40" height="40" alt="" /><br /><b>Redux Toolkit</b></a><br /><sub>★&nbsp;11.2k · <a href="https://github.com/reduxjs/redux-toolkit/pulls?q=is%3Apr+author%3AMahinAnowar+is%3Amerged">2&nbsp;accepted</a></sub></td>
       <td width="20%"></td>
     </tr>
   </table>
-  <sub>As of October 2026. Each count links to the merged pull requests on that project.</sub>
+  <sub>As of October 2026. Each count links to the accepted pull requests on that project.</sub>
 </details>
 
 ## Experience
