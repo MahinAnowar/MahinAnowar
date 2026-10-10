@@ -118,21 +118,51 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
 
 ## What I build
 
-**[NSU Insights](https://nsuinsights.com)** · Founder and sole engineer · Dec 2025 – present<br />
-The course-planning platform for North South University students, with <!-- nsu-users -->4,283<!-- /nsu-users --> users and <!-- nsu-reviews -->3,615<!-- /nsu-reviews --> teacher reviews. I designed, built and run it end to end, including an AI assistant students can talk to.<br />
-*React · TypeScript · Node.js · MongoDB · Gemini*
-
-**Automata One** · Junior full-stack developer · Jan – Aug 2026<br />
-Built the pricing and notification systems for Phoenix Education, a live learning platform: one source of truth for prices from catalogue to checkout, and real-time push notifications. Top contributor to the company website.<br />
-*Next.js · FastAPI · PostgreSQL · Redis*
-
-**Freelance** · Fiverr and direct clients · Sep 2026 – present<br />
-Bug fixing and AI integration for startups abroad. My first client has hired me for every order since, each rated 5 stars.<br />
-*React · Next.js · Node.js · Python*
-
-**[Portfolio](https://mahin-anowar.vercel.app/)** · Personal site · 2026<br />
-A site that maintains itself: content edited in Google Sheets, an AI assistant that answers from the site's own data, and nightly jobs that refresh live numbers and screenshots.<br />
-*React · Vite · Vercel · GitHub Actions · Playwright*
+<table align="center" width="100%">
+  <tr><th align="left">Project</th><th align="left">What I did</th><th align="left">Stack</th></tr>
+  <tr>
+    <td valign="top" width="24%"><a href="https://nsuinsights.com"><b>NSU Insights</b></a><br /><sub>Founder and sole engineer<br />Dec 2025 – present</sub></td>
+    <td valign="top">The course-planning platform for North South University students: <b><!-- nsu-users -->4,283<!-- /nsu-users --></b> users and <b><!-- nsu-reviews -->3,615<!-- /nsu-reviews --></b> teacher reviews. Designed, built and run end to end, including an AI assistant students can talk to.</td>
+    <td valign="top" width="22%">
+        <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Gemini-1A1B27?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><b>Automata One</b><br /><sub>Junior full-stack developer<br />Jan – Aug 2026</sub></td>
+    <td valign="top">Built the pricing and notification systems for Phoenix Education, a live learning platform: one source of truth for prices from catalogue to checkout, and real-time push notifications. Top contributor to the company website.</td>
+    <td valign="top" width="22%">
+        <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/FastAPI-1A1B27?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-1A1B27?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><a href="https://www.fiverr.com/mahin_anowar"><b>Freelance</b></a><br /><sub>Fiverr and direct clients<br />Sep 2026 – present</sub></td>
+    <td valign="top">Bug fixing and AI integration for startups abroad. My first client has hired me for every order since, each rated <b>5 stars</b>.</td>
+    <td valign="top" width="22%">
+        <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-1A1B27?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><a href="https://mahin-anowar.vercel.app/"><b>Portfolio</b></a><br /><sub>Personal site<br />2026</sub></td>
+    <td valign="top">A site that maintains itself: content edited in Google Sheets, an AI assistant that answers from the site's own data, and nightly jobs that refresh live numbers and screenshots.</td>
+    <td valign="top" width="22%">
+        <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-1A1B27?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+        <img src="https://img.shields.io/badge/Vercel-1A1B27?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-1A1B27?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Google_Sheets-1A1B27?style=flat-square&logo=googlesheets&logoColor=34A853" alt="Google Sheets" />
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
