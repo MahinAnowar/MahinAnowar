@@ -140,8 +140,9 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
   </tr>
   <tr>
     <td valign="top" width="24%"><b>Automata One</b><br /><sub>Junior full-stack developer<br />Jan – Aug 2026</sub></td>
-    <td valign="top">Owned the pricing and notification systems of Phoenix Education, a live EdTech platform: a single price authority from catalogue to checkout, and real-time Web Push and SSE notifications. Top contributor to the company website.</td>
+    <td valign="top">Worked across all four products of Phoenix Education, a live learning platform (storefront, student app, admin panel and FastAPI backend), with <b>511 commits</b>. Built the campaign pricing system (one price authority from catalogue to checkout), Web Push + SSE notifications, course access expiry, a class scheduler, and a PDF-proxy SSRF fix. Top contributor to the company website.</td>
     <td valign="top" width="22%">
+        <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/FastAPI-1A1B27?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
         <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
