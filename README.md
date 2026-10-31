@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>49</b> open-source contributions accepted into <b>Node.js, Jest, React Router, Axios</b> and 15 more<br />
-  <a href="https://nsuinsights.com"><b>NSU Insights</b></a>, my own product, used by <b><!-- nsu-users -->4,382<!-- /nsu-users --></b> students
+  <a href="https://nsuinsights.com"><b>NSU Insights</b></a>, my own product, used by <b><!-- nsu-users -->4,389<!-- /nsu-users --></b> students
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ I work on bugs that are hard to pin down: stream and timer edge cases, timezone 
   </tr>
   <tr>
     <td valign="top" width="24%"><a href="https://nsuinsights.com"><b>NSU Insights</b></a><br /><sub>Founder &amp; sole engineer<br />Dec 2025 – present</sub></td>
-    <td valign="top">Founded and run the all-in-one student platform for North South University, used by <b><!-- nsu-users -->4,382<!-- /nsu-users --></b> students with <b><!-- nsu-reviews -->3,647<!-- /nsu-reviews --></b> teacher reviews: teacher rankings, grade data, a clash-aware schedule planner, a CGPA calculator, course swaps, tutors, ride sharing, and NSU Panda, a Gemini assistant with voice and function calling. Designed, built and operated solo.</td>
+    <td valign="top">Founded and run the all-in-one student platform for North South University, used by <b><!-- nsu-users -->4,389<!-- /nsu-users --></b> students with <b><!-- nsu-reviews -->3,647<!-- /nsu-reviews --></b> teacher reviews: teacher rankings, grade data, a clash-aware schedule planner, a CGPA calculator, course swaps, tutors, ride sharing, and NSU Panda, a Gemini assistant with voice and function calling. Designed, built and operated solo.</td>
     <td valign="top" width="22%">
         <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
